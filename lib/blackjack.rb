@@ -1,4 +1,4 @@
-def welcome
+irbdef welcome
   puts "Welcome to the Blackjack Table"
 end
 
